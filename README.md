@@ -107,3 +107,7 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
   - 𝙲𝚊𝚗 𝚍𝚘 𝚝𝚑𝚎 𝚖𝚒𝚍𝚍𝚕𝚎 𝚜𝚙𝚕𝚒𝚝
 
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
