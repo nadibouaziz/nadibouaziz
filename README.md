@@ -110,9 +110,9 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/nadibouaziz/portfolio/pull/3) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
-2. 💪 Opened PR [#3](https://github.com/nadibouaziz/portfolio/pull/3) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
-3. ❌ Closed PR [#2](https://github.com/nadibouaziz/portfolio/pull/2) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
-4. 💪 Opened PR [#2](https://github.com/nadibouaziz/portfolio/pull/2) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
-5. 🎉 Merged PR [#1](https://github.com/nadibouaziz/portfolio/pull/1) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/nadibouaziz/portfolio/pull/4) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
+2. 💪 Opened PR [#4](https://github.com/nadibouaziz/portfolio/pull/4) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
+3. 🎉 Merged PR [#3](https://github.com/nadibouaziz/portfolio/pull/3) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
+4. 💪 Opened PR [#3](https://github.com/nadibouaziz/portfolio/pull/3) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
+5. ❌ Closed PR [#2](https://github.com/nadibouaziz/portfolio/pull/2) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
 <!--END_SECTION:activity-->
