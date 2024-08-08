@@ -11,8 +11,9 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
 ```yaml
-- 𝙸𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 by adding some personal scripts I developed
-- 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚒𝚗 𝙽𝚎𝚡𝚝𝙹𝚂 + ThreeJS
+- Improving my recently developed portfolio
+- Developing a simple API rest in NestJS + typescript with unit test
+- Studying to pass my GCP certifications ( Cloud Engineer + Cloud Architect )
 ```
 
 - 🎯 𝙼𝚢 𝚏𝚞𝚝𝚞𝚛𝚎 𝚐𝚘𝚊𝚕𝚜 𝚊𝚛𝚎 𝚝𝚘．．．
@@ -108,7 +109,6 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#10](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/10) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
@@ -117,3 +117,9 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 4. 💪 Opened PR [#9](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/9) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
 5. 🎉 Merged PR [#8](https://github.com/nadibouaziz/portfolio/pull/8) in [nadibouaziz/portfolio](https://github.com/nadibouaziz/portfolio)
 <!--END_SECTION:activity-->
+
+## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+
+![Nadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadibouaziz&show_icons=true&theme=transparent&include_all_commits=true&layout=compact")
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadibouaziz&theme=transparent&include_all_commits=true&layout=compact)
