@@ -123,3 +123,5 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 ![Nadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadibouaziz&show_icons=true&theme=transparent&include_all_commits=true&layout=compact")
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadibouaziz&theme=transparent&include_all_commits=true&layout=compact)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=nbouaziz&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
