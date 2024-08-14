@@ -111,11 +111,11 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nadibouaziz/nadibouaziz/pull/2) in [nadibouaziz/nadibouaziz](https://github.com/nadibouaziz/nadibouaziz)
-2. 💪 Opened PR [#2](https://github.com/nadibouaziz/nadibouaziz/pull/2) in [nadibouaziz/nadibouaziz](https://github.com/nadibouaziz/nadibouaziz)
-3. 🎉 Merged PR [#1](https://github.com/nadibouaziz/user-management-api/pull/1) in [nadibouaziz/user-management-api](https://github.com/nadibouaziz/user-management-api)
-4. 💪 Opened PR [#1](https://github.com/nadibouaziz/user-management-api/pull/1) in [nadibouaziz/user-management-api](https://github.com/nadibouaziz/user-management-api)
-5. 🎉 Merged PR [#1](https://github.com/nadibouaziz/linux-scripts/pull/1) in [nadibouaziz/linux-scripts](https://github.com/nadibouaziz/linux-scripts)
+1. 🎉 Merged PR [#13](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/13) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
+2. 💪 Opened PR [#13](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/13) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
+3. 🎉 Merged PR [#2](https://github.com/nadibouaziz/nadibouaziz/pull/2) in [nadibouaziz/nadibouaziz](https://github.com/nadibouaziz/nadibouaziz)
+4. 💪 Opened PR [#2](https://github.com/nadibouaziz/nadibouaziz/pull/2) in [nadibouaziz/nadibouaziz](https://github.com/nadibouaziz/nadibouaziz)
+5. 🎉 Merged PR [#1](https://github.com/nadibouaziz/user-management-api/pull/1) in [nadibouaziz/user-management-api](https://github.com/nadibouaziz/user-management-api)
 <!--END_SECTION:activity-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
