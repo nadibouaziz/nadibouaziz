@@ -111,11 +111,11 @@ Outside of work, I practice martial arts and bodyweight workouts, which help me 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nadibouaziz/api-backend/pull/1) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
-2. 🗣 Commented on [#1](https://github.com/nadibouaziz/api-backend/pull/1#issuecomment-2316671566) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
-3. 💪 Opened PR [#1](https://github.com/nadibouaziz/api-backend/pull/1) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
-4. 🎉 Merged PR [#14](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/14) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
-5. 💪 Opened PR [#14](https://github.com/nadibouaziz/nadibouaziz.github.io/pull/14) in [nadibouaziz/nadibouaziz.github.io](https://github.com/nadibouaziz/nadibouaziz.github.io)
+1. 🎉 Merged PR [#2](https://github.com/nadibouaziz/api-backend/pull/2) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
+2. 💪 Opened PR [#2](https://github.com/nadibouaziz/api-backend/pull/2) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
+3. 🎉 Merged PR [#1](https://github.com/nadibouaziz/api-backend/pull/1) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
+4. 🗣 Commented on [#1](https://github.com/nadibouaziz/api-backend/pull/1#issuecomment-2316671566) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
+5. 💪 Opened PR [#1](https://github.com/nadibouaziz/api-backend/pull/1) in [nadibouaziz/api-backend](https://github.com/nadibouaziz/api-backend)
 <!--END_SECTION:activity-->
 
 ## 📊 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
